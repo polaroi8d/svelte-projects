@@ -1,8 +1,8 @@
 <p align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="assets/light.png">
-      <img alt="svelte cool projects" src="assets/dark.png" width="400">
+      <source media="(prefers-color-scheme: light)" srcset="assets/dark.png">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/light.png">
+      <img alt="svelte cool projects" src="assets/light.png" width="400">
     </picture>
 </p>
 
